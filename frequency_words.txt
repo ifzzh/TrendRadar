@@ -1,5 +1,24 @@
-胖东来
-于东来
+NBA
+篮球
+
+斯诺克
+中八
+火箭
+奥沙利文
+丁俊晖
+
+集群
+k8s
+Kubernetes
+pod
+docker
+containerd
+kube
+
+vnf
+cnf
+虚拟网络功能
+NFV
 
 DeepSeek
 梁文锋
@@ -20,16 +39,6 @@ HarmonyOS
 
 黑神话
 冯骥
-
-哪吒
-饺子
-!车
-!餐
-
-流浪地球
-郭帆
-三体
-刘慈欣
 
 米哈游
 原神
